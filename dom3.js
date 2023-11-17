@@ -17,6 +17,7 @@
 // console.log("City:", person.city);
 
 // person.age = 26;
+namerna proba za git
 
 // console.log("Fruits:", fruits);
 // console.log("Person:", person);
